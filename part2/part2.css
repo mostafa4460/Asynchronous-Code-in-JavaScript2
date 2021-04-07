@@ -1,0 +1,15 @@
+.hidden {
+    display: none;
+}
+
+.btn {
+    position: relative;
+    left: 50%;
+}
+
+#card {
+    display: block;
+    margin-top: 20px;
+    position: relative;
+    left: 46%;
+}
